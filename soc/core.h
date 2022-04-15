@@ -1,1 +1,1 @@
-../../../kernel/microsoft/duo/drivers/pinctrl/core.h
+../../../drivers/pinctrl/core.h
