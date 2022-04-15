@@ -1,1 +1,1 @@
-../../../../kernel/microsoft/duo/drivers/base/regmap/internal.h
+../../../drivers/pinctrl/core.h
