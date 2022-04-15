@@ -1,1 +1,1 @@
-../../../../../kernel/msm-4.14/drivers/pinctrl/pinctrl-utils.h
+../../../../../kernel/microsoft/duo/drivers/pinctrl/pinctrl-utils.h
